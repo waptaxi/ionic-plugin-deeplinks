@@ -8,7 +8,7 @@
 	<repo>https://github.com/ionic-team/ionic-plugin-deeplink.git</repo>
 	<issue>https://github.com/ionic-team/ionic-plugin-deeplink/issues</issue>
 
-	<preference name="URL_SCHEME" default=""/>
+	<preference name="URL_SCHEME" default=" "/>
 
 	<!-- android -->
 	<platform name="android">
